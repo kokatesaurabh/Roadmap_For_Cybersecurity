@@ -2,6 +2,11 @@
 
 This comprehensive roadmap is designed to take you from having no technical background to becoming an advanced cybersecurity expert. It’s divided into three progressive phases and includes skills, tools, YouTube channels, certifications, and hands-on resources. Whether you want to become a penetration tester, security analyst, or cloud security engineer, this guide is your path forward.
 
+
+
+---
+![Cybersecurity Roadmap Flow](./mermaid-ai-diagram-2025-05-30-090010.png)
+
 ---
 
 ## 📘 Phase 1: Foundational (Non-Technical to Basic Technical Skills)
