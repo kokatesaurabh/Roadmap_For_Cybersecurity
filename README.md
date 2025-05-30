@@ -31,6 +31,7 @@ This comprehensive roadmap is designed to take you from having no technical back
 - **Khan Academy** – Computer Science basics
 
 ### ▶️ YouTube Playlists
+- [WsCube Tech – Cybersecurity Full Course (Hindi)](https://youtu.be/v3iUx2SNspY?si=sEvDax-oD667r9if)
 - [Professor Messer – CompTIA A+](https://www.youtube.com/playlist?list=PLG49S3nxzAnmpdmxJ2yJhjCxdQ0g2ndX7)
 - [NetworkChuck – Networking for Beginners](https://www.youtube.com/watch?v=3bC2cN8aU5E)
 - [The Cyber Mentor – Cybersecurity for Beginners](https://www.youtube.com/watch?v=U_P23SqJaDc)
